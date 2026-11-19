@@ -1,0 +1,17 @@
+body {
+    background: green;
+}
+
+.big {
+    font-size: 48px;
+}
+
+.blue {
+    color: blue;
+    font-style: italic;
+}
+
+.border {
+    border: 5px red;
+    padding: 10px;
+}
